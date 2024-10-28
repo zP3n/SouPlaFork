@@ -2,3 +2,5 @@
   
 このプロジェクトではWindowsとMacでのみ動くSoundPlantというソフトを  
 どのOSでも実行できるようにすることを目指します。  
+  
+https://soundplant.org/
